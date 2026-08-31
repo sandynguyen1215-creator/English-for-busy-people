@@ -1,0 +1,8 @@
+{
+  "name": "English at Work",
+  "description": "Ứng dụng học tiếng Anh thương mại & kỹ năng văn phòng thực chiến dành cho người bận rộn",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
